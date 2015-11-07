@@ -5,6 +5,12 @@ This is the README file for the Prism interview. In here you can find the descri
 
 ### Cards.py ###
 
+* To run a demo of this file, run the following command:
+
+```
+$ python cards.py
+```
+
 * The two objects: Deck and Card, represent the deck and cards
 * API for Deck:
 	* init, creates a new deck using NewDeck()
@@ -21,7 +27,7 @@ This is the README file for the Prism interview. In here you can find the descri
 * Designed to be used in the form of 'python vacationing_salesman.py < < input file >' where < input file > is a text file. Example below:
 
 ```
-$ python vacationing_salesman.py < input.txt
+$ python vacationing_salesman.py < example_input.txt
 ```
 
 * Each line in the input file can contain either whitespace, a flag, or a destination.

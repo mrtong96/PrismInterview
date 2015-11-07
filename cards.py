@@ -38,6 +38,9 @@ class Card():
         return str(self)
 
 def main():
+
+    print 'The following is a demo of cards.py\n'
+
     d = Deck()
     print 'initial dealing of deck:'
     cards = []
